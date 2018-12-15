@@ -1,0 +1,25 @@
+Python 3.5.2 (v3.5.2:4def2a2901a5, Jun 25 2016, 22:01:18) [MSC v.1900 32 bit (Intel)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> 
+======= RESTART: C:/Users/Greg/Desktop/Python examples/program 3-4.py =======
+Enter a name (last name first):Whitewolf,Mickey
+Enter another name (last name first):Witt,Greg
+Here are the names, listed alphabetically.
+Whitewolf,Mickey
+Witt,Greg
+>>> 
+>>> 
+======= RESTART: C:/Users/Greg/Desktop/Python examples/program 3-4.py =======
+Enter a name (last name first):Hawkins,Brian
+Enter another name (last name first):Trump,Donald
+Here are the names, listed alphabetically.
+Hawkins,Brian
+Trump,Donald
+>>> 
+======= RESTART: C:/Users/Greg/Desktop/Python examples/program 3-4.py =======
+Enter a name (last name first):Ray,Ashley
+Enter another name (last name first):Wang,Xiao
+Here are the names, listed alphabetically.
+Ray,Ashley
+Wang,Xiao
+>>> 

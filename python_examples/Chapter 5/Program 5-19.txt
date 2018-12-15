@@ -1,0 +1,76 @@
+Python 3.5.2 (v3.5.2:4def2a2901a5, Jun 25 2016, 22:01:18) [MSC v.1900 32 bit (Intel)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> 
+== RESTART: C:/Users/Greg/Desktop/Python examples/Chapter 5/Program 5-19.py ==
+Rolling the dice...
+Their values are.:
+1
+5
+Roll them again? (y = yes): y
+Rolling the dice...
+Their values are.:
+2
+3
+Roll them again? (y = yes): y
+Rolling the dice...
+Their values are.:
+4
+4
+Roll them again? (y = yes): y
+Rolling the dice...
+Their values are.:
+4
+3
+Roll them again? (y = yes): y
+Rolling the dice...
+Their values are.:
+2
+2
+Roll them again? (y = yes): y
+Rolling the dice...
+Their values are.:
+2
+1
+Roll them again? (y = yes): 
+== RESTART: C:/Users/Greg/Desktop/Python examples/Chapter 5/Program 5-19.py ==
+Rolling the dice...
+Their values are.:
+1
+2
+Roll them again? (y = yes): y
+Rolling the dice...
+Their values are.:
+1
+5
+Roll them again? (y = yes): y
+Rolling the dice...
+Their values are.:
+6
+3
+Roll them again? (y = yes): y
+Rolling the dice...
+Their values are.:
+3
+6
+Roll them again? (y = yes): 
+== RESTART: C:/Users/Greg/Desktop/Python examples/Chapter 5/Program 5-19.py ==
+Rolling the dice...
+Their values are.:
+5
+4
+Roll them again? (y = yes): y
+Rolling the dice...
+Their values are.:
+3
+6
+Roll them again? (y = yes): y
+Rolling the dice...
+Their values are.:
+5
+4
+Roll them again? (y = yes): y
+Rolling the dice...
+Their values are.:
+2
+5
+Roll them again? (y = yes): 

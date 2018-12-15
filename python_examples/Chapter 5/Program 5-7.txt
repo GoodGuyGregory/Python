@@ -1,0 +1,30 @@
+Python 3.5.2 (v3.5.2:4def2a2901a5, Jun 25 2016, 22:01:18) [MSC v.1900 32 bit (Intel)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> 
+== RESTART: C:\Users\Greg\Desktop\Python examples\Chapter 5\Program 5-7.py ==
+This program converts measurements
+ in cups to fluid ounces. For your
+reference the formula is:
+ 1 cup = 8 fluid ounces
+
+Enter the number of cups: 8
+That converts to 64 ounces.
+>>> 
+== RESTART: C:\Users\Greg\Desktop\Python examples\Chapter 5\Program 5-7.py ==
+This program converts measurements
+ in cups to fluid ounces. For your
+reference the formula is:
+ 1 cup = 8 fluid ounces
+
+Enter the number of cups: 48
+That converts to 384 ounces.
+>>> 
+== RESTART: C:\Users\Greg\Desktop\Python examples\Chapter 5\Program 5-7.py ==
+This program converts measurements
+ in cups to fluid ounces. For your
+reference the formula is:
+ 1 cup = 8 fluid ounces
+
+Enter the number of cups: 16
+That converts to 128 ounces.
+>>> 

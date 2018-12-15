@@ -1,0 +1,108 @@
+Python 3.5.2 (v3.5.2:4def2a2901a5, Jun 25 2016, 22:01:18) [MSC v.1900 32 bit (Intel)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> 
+ RESTART: C:/Users/Greg/AppData/Local/Programs/Python/Python35-32/Program 4-17.py 
+How many students do you have? 5
+How many test scores per student? 3
+Student number 1
+-----------------
+Test number 1: 90
+Test number 2: 100
+Test number 3: 82
+The average for student number 1 is: 90.66666666666667
+
+Student number 2
+-----------------
+Test number 1: 75
+Test number 2: 68
+Test number 3: 100
+The average for student number 2 is: 81.0
+
+Student number 3
+-----------------
+Test number 1: 75
+Test number 2: 84
+Test number 3: 82
+The average for student number 3 is: 80.33333333333333
+
+Student number 4
+-----------------
+Test number 1: 100
+Test number 2: 90
+Test number 3: 89
+The average for student number 4 is: 93.0
+
+Student number 5
+-----------------
+Test number 1: 100
+Test number 2: 102
+Test number 3: 100
+The average for student number 5 is: 100.66666666666667
+
+>>> 
+ RESTART: C:/Users/Greg/AppData/Local/Programs/Python/Python35-32/Program 4-17.py 
+How many students do you have? 2
+How many test scores per student? 1
+Student number 1
+-----------------
+Test number 1: 100
+The average for student number 1 is: 100.0
+
+Student number 2
+-----------------
+Test number 1: 89
+The average for student number 2 is: 89.0
+
+>>> 
+ RESTART: C:/Users/Greg/AppData/Local/Programs/Python/Python35-32/Program 4-17.py 
+How many students do you have? 8
+How many test scores per student? 2
+Student number 1
+-----------------
+Test number 1: 89
+Test number 2: 70
+The average for student number 1 is: 79.5
+
+Student number 2
+-----------------
+Test number 1: 45
+Test number 2: 50
+The average for student number 2 is: 47.5
+
+Student number 3
+-----------------
+Test number 1: 89
+Test number 2: 90
+The average for student number 3 is: 89.5
+
+Student number 4
+-----------------
+Test number 1: 92
+Test number 2: 100
+The average for student number 4 is: 96.0
+
+Student number 5
+-----------------
+Test number 1: 76
+Test number 2: 89
+The average for student number 5 is: 82.5
+
+Student number 6
+-----------------
+Test number 1: 92
+Test number 2: 100
+The average for student number 6 is: 96.0
+
+Student number 7
+-----------------
+Test number 1: 84
+Test number 2: 56
+The average for student number 7 is: 70.0
+
+Student number 8
+-----------------
+Test number 1: 71
+Test number 2: 92
+The average for student number 8 is: 81.5
+
+>>> 

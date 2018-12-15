@@ -1,0 +1,25 @@
+Python 3.5.2 (v3.5.2:4def2a2901a5, Jun 25 2016, 22:01:18) [MSC v.1900 32 bit (Intel)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> 
+ RESTART: C:\Users\Greg\AppData\Local\Programs\Python\Python35-32\Program 6-8.py 
+For how many days do you have sales? 5
+Enter the sales for day #1: 17894.58
+Enter the sales for day #2: 14567.85
+Enter the sales for day #3: 14857.42
+Enter the sales for day #4: 19848.26
+Enter the sales for day #5: 20145.47
+Data written to sales.txt
+>>> 
+ RESTART: C:\Users\Greg\AppData\Local\Programs\Python\Python35-32\Program 6-8.py 
+For how many days do you have sales? 3
+Enter the sales for day #1: 1415.84
+Enter the sales for day #2: 18974.55
+Enter the sales for day #3: 12365.86
+Data written to sales.txt
+>>> 
+ RESTART: C:\Users\Greg\AppData\Local\Programs\Python\Python35-32\Program 6-8.py 
+For how many days do you have sales? 2
+Enter the sales for day #1: 8952.01
+Enter the sales for day #2: 14567.23
+Data written to sales.txt
+>>> 

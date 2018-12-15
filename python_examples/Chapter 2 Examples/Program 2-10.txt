@@ -1,0 +1,11 @@
+Python 3.5.2 (v3.5.2:4def2a2901a5, Jun 25 2016, 22:01:18) [MSC v.1900 32 bit (Intel)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> 
+======= RESTART: C:/Users/Greg/Desktop/Python examples/program 2-10.py =======
+I have 2.75 in my account
+but now I have 99.95 in my account
+It seems I have 1000.0 in my wallet
+looks like they robbed me. I only have 0.0 in my account
+this week is pretty slow, I only have 200.0 until I get paid
+payday! Looks like I just got paid 800.0
+>>> 

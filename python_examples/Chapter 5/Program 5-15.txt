@@ -1,0 +1,21 @@
+Python 3.5.2 (v3.5.2:4def2a2901a5, Jun 25 2016, 22:01:18) [MSC v.1900 32 bit (Intel)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> 
+== RESTART: C:/Users/Greg/Desktop/Python examples/Chapter 5/Program 5-15.py ==
+Enter your gross pay: 85000.00
+Enter the combined net amount of your bonuses: 850.00
+Contribution to retirement account: $4250.00
+Bonus contribution to account: $42.50
+>>> 
+== RESTART: C:/Users/Greg/Desktop/Python examples/Chapter 5/Program 5-15.py ==
+Enter your gross pay: 29000.00
+Enter the combined net amount of your bonuses: 750.00
+Contribution to retirement account: $1450.00
+Bonus contribution to account: $37.50
+>>> 
+== RESTART: C:/Users/Greg/Desktop/Python examples/Chapter 5/Program 5-15.py ==
+Enter your gross pay: 22000.00
+Enter the combined net amount of your bonuses: 0.00
+Contribution to retirement account: $1100.00
+Bonus contribution to account: $0.00
+>>> 
